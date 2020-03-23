@@ -1,4 +1,8 @@
-# README
+# Shopify Tester
+
+Playing with Shopify and Ruby on Rails
+
+____________________
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
